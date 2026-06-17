@@ -1,0 +1,35 @@
+[
+  {
+    "videoId": "aqz-KE-bpKQ",
+    "title": "Big Buck Bunny - corto de animacion",
+    "channel": "Blender",
+    "description": "Contenido abierto usado como ejemplo. Sustituyelo por peliculas o series revisadas.",
+    "publishedAt": "2008-05-20T00:00:00Z",
+    "duration": "10:34",
+    "genre": "animacion",
+    "type": "pelicula",
+    "relevance": 98
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=YE7VzlLtp-4",
+    "title": "Sintel - animacion completa",
+    "channel": "Blender",
+    "description": "Tambien puedes usar url en vez de videoId.",
+    "publishedAt": "2010-09-30T00:00:00Z",
+    "duration": "14:48",
+    "genre": "drama",
+    "type": "pelicula",
+    "relevance": 94
+  },
+  {
+    "videoId": "WhWc3b3KhnY",
+    "title": "Tears of Steel - ciencia ficcion",
+    "channel": "Blender",
+    "description": "Ejemplo para ciencia ficcion.",
+    "publishedAt": "2012-09-26T00:00:00Z",
+    "duration": "12:14",
+    "genre": "ciencia-ficcion",
+    "type": "pelicula",
+    "relevance": 92
+  }
+]
