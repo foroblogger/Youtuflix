@@ -1,35 +1,127 @@
 [
   {
+    "id": "malviviendo-serie",
+    "url": "https://www.youtube.com/results?search_query=Malviviendo+serie+oficial",
+    "title": "Malviviendo",
+    "channel": "Diffferent / Malviviendo",
+    "description": "Webserie española creada por David Sainz. Ficha de serie: abre YouTube para localizar episodios oficiales o publicados por sus responsables.",
+    "publishedAt": "2008-11-24T00:00:00Z",
+    "duration": "Serie",
+    "genre": "series-espanol",
+    "type": "serie",
+    "relevance": 99
+  },
+  {
+    "id": "calico-electronico-serie",
+    "url": "https://www.youtube.com/results?search_query=C%C3%A1lico+Electr%C3%B3nico+serie+oficial",
+    "title": "Cálico Electrónico",
+    "channel": "Nikodemo / Cálico Electrónico",
+    "description": "Serie española de animación flash distribuida en Internet. Ficha de serie para acceder a capítulos en YouTube.",
+    "publishedAt": "2004-06-01T00:00:00Z",
+    "duration": "Serie",
+    "genre": "webseries",
+    "type": "serie",
+    "relevance": 98
+  },
+  {
+    "videoId": "5l8YuuHl0rc",
+    "title": "Cálico Electrónico - Entremés 13: Anabol",
+    "channel": "Cálico Electrónico",
+    "description": "Episodio corto de Cálico Electrónico documentado en listados públicos de la serie.",
+    "publishedAt": "2009-09-02T00:00:00Z",
+    "duration": "Video",
+    "genre": "webseries",
+    "type": "serie",
+    "relevance": 86
+  },
+  {
+    "videoId": "UVl17qdFz0I",
+    "title": "Cálico Electrónico - Entremés 14: Maravillas",
+    "channel": "Cálico Electrónico",
+    "description": "Episodio corto de Cálico Electrónico.",
+    "publishedAt": "2009-09-09T00:00:00Z",
+    "duration": "Video",
+    "genre": "webseries",
+    "type": "serie",
+    "relevance": 84
+  },
+  {
+    "videoId": "2biNQ09lZhg",
+    "title": "Cálico Electrónico - Entremés 15: Tu primera vez",
+    "channel": "Cálico Electrónico",
+    "description": "Episodio corto de Cálico Electrónico.",
+    "publishedAt": "2009-09-17T00:00:00Z",
+    "duration": "Video",
+    "genre": "webseries",
+    "type": "serie",
+    "relevance": 83
+  },
+  {
+    "id": "enjuto-mojamuto-serie",
+    "url": "https://www.youtube.com/results?search_query=Enjuto+Mojamuto+cap%C3%ADtulos",
+    "title": "Enjuto Mojamuto",
+    "channel": "Muchachada Nui / RTVE",
+    "description": "Personaje de animación creado por Joaquín Reyes. Ficha de serie para localizar sketches y episodios publicados en YouTube.",
+    "publishedAt": "2004-01-01T00:00:00Z",
+    "duration": "Serie",
+    "genre": "webseries",
+    "type": "serie",
+    "relevance": 97
+  },
+  {
+    "id": "que-vida-mas-triste-serie",
+    "url": "https://www.youtube.com/results?search_query=Qu%C3%A9+vida+m%C3%A1s+triste+cap%C3%ADtulos",
+    "title": "Qué vida más triste",
+    "channel": "Qué vida más triste",
+    "description": "Webserie española de comedia. Ficha de serie para localizar capítulos disponibles en YouTube.",
+    "publishedAt": "2005-01-01T00:00:00Z",
+    "duration": "Serie",
+    "genre": "series-espanol",
+    "type": "serie",
+    "relevance": 88
+  },
+  {
     "videoId": "aqz-KE-bpKQ",
-    "title": "Big Buck Bunny - corto de animacion",
+    "title": "Big Buck Bunny",
     "channel": "Blender",
-    "description": "Contenido abierto usado como ejemplo. Sustituyelo por peliculas o series revisadas.",
+    "description": "Corto abierto de animación de Blender Foundation.",
     "publishedAt": "2008-05-20T00:00:00Z",
     "duration": "10:34",
     "genre": "animacion",
     "type": "pelicula",
-    "relevance": 98
+    "relevance": 90
   },
   {
     "url": "https://www.youtube.com/watch?v=YE7VzlLtp-4",
-    "title": "Sintel - animacion completa",
+    "title": "Sintel",
     "channel": "Blender",
-    "description": "Tambien puedes usar url en vez de videoId.",
+    "description": "Cortometraje abierto de fantasía producido por Blender Foundation.",
     "publishedAt": "2010-09-30T00:00:00Z",
     "duration": "14:48",
-    "genre": "drama",
+    "genre": "animacion",
     "type": "pelicula",
-    "relevance": 94
+    "relevance": 91
   },
   {
     "videoId": "WhWc3b3KhnY",
-    "title": "Tears of Steel - ciencia ficcion",
+    "title": "Tears of Steel",
     "channel": "Blender",
-    "description": "Ejemplo para ciencia ficcion.",
+    "description": "Corto abierto de ciencia ficción producido por Blender Foundation.",
     "publishedAt": "2012-09-26T00:00:00Z",
     "duration": "12:14",
     "genre": "ciencia-ficcion",
     "type": "pelicula",
-    "relevance": 92
+    "relevance": 89
+  },
+  {
+    "videoId": "R6MlUcmOul8",
+    "title": "Elephants Dream",
+    "channel": "Blender",
+    "description": "Cortometraje abierto de animación experimental.",
+    "publishedAt": "2006-03-24T00:00:00Z",
+    "duration": "10:53",
+    "genre": "clasicos",
+    "type": "pelicula",
+    "relevance": 87
   }
 ]
